@@ -61,6 +61,9 @@ namespace ConvertitoreNumeri
                     Console.ReadKey(); // Attende un input da tastiera (qualunque tasto)
                 }
             }
-        }
-    }
-}
+
+
+
+        } // Main
+    } // Classe
+} // Progetto
